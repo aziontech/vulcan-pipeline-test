@@ -1,5 +1,5 @@
 {
-  "name": "edge-functions",
+  "name": "vulcan-pipeline-test",
   "type": "module",
   "version": "2.1.0",
   "description": "Tool to launch and build JavaScript/Frameworks. This tool automates polyfills for Edge Computing and assists in creating Workers, notably for the Azion platform.",
@@ -147,10 +147,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aziontech/vulcan.git"
+    "url": "git+https://github.com/aziontech/vulcan-pipeline-test.git"
   },
   "bugs": {
-    "url": "https://github.com/aziontech/vulcan/issues"
+    "url": "https://github.com/aziontech/vulcan-pipeline-test/issues"
   },
-  "homepage": "https://github.com/aziontech/vulcan#readme"
+  "homepage": "https://github.com/aziontech/vulcan-pipeline-test#readme"
 }
