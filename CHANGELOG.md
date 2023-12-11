@@ -1,3 +1,25 @@
+## [2.2.0](https://github.com/aziontech/vulcan-pipeline-test/compare/v2.1.0...v2.2.0) (2023-12-08)
+
+
+### Features
+
+* new feat 1 ([e6747c8](https://github.com/aziontech/vulcan-pipeline-test/commit/e6747c8456a0ea988a990428273cf4821968acbd))
+* new feat 1 ([#1](https://github.com/aziontech/vulcan-pipeline-test/issues/1)) ([d29848a](https://github.com/aziontech/vulcan-pipeline-test/commit/d29848ab040b52d832be155830f4b1532e1437dd))
+* new feat 2 ([038bc93](https://github.com/aziontech/vulcan-pipeline-test/commit/038bc937e95fe06f780593d6c912dce7c52ba70a))
+* new feat 2 ([#3](https://github.com/aziontech/vulcan-pipeline-test/issues/3)) ([86b598e](https://github.com/aziontech/vulcan-pipeline-test/commit/86b598e006d933f87341a624bf6b69df5ea4c4a5))
+* new feat 3 ([535f5fa](https://github.com/aziontech/vulcan-pipeline-test/commit/535f5fa0ff2e11e1eb8ba2baa3d380ca01f60abf))
+* new feat 3 ([#6](https://github.com/aziontech/vulcan-pipeline-test/issues/6)) ([a8f03cc](https://github.com/aziontech/vulcan-pipeline-test/commit/a8f03cc36a5d283b0a1f212c525252832151b1ba))
+* new feat 5 ([b56d4b6](https://github.com/aziontech/vulcan-pipeline-test/commit/b56d4b6e2e36f44a62ad4837e892173593bd9ee1))
+* new feat 6 ([706b6c5](https://github.com/aziontech/vulcan-pipeline-test/commit/706b6c54cc33c0006ee9c2c92474314cee2476d9))
+* new feat 6 ([#11](https://github.com/aziontech/vulcan-pipeline-test/issues/11)) ([ecf34d4](https://github.com/aziontech/vulcan-pipeline-test/commit/ecf34d428b448c202b8e0b39ed1807f641ea6ebd))
+* new feat 7 ([c046a07](https://github.com/aziontech/vulcan-pipeline-test/commit/c046a0762b2a65ace6c29f51ebafd68563078d2f))
+
+
+### Bug Fixes
+
+* adjustment in 5 ([dc34db4](https://github.com/aziontech/vulcan-pipeline-test/commit/dc34db45f5a094794118a3e98b217bd557a30b7f))
+* feat 4 ([8836253](https://github.com/aziontech/vulcan-pipeline-test/commit/8836253ba5139d45fa8b3a76ff3014bb69726f43))
+
 ## [2.2.0-stage.5](https://github.com/aziontech/vulcan-pipeline-test/compare/v2.2.0-stage.4...v2.2.0-stage.5) (2023-12-11)
 
 
