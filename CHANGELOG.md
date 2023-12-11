@@ -20,6 +20,14 @@
 * adjustment in 5 ([dc34db4](https://github.com/aziontech/vulcan-pipeline-test/commit/dc34db45f5a094794118a3e98b217bd557a30b7f))
 * feat 4 ([8836253](https://github.com/aziontech/vulcan-pipeline-test/commit/8836253ba5139d45fa8b3a76ff3014bb69726f43))
 
+## [2.2.0-stage.5](https://github.com/aziontech/vulcan-pipeline-test/compare/v2.2.0-stage.4...v2.2.0-stage.5) (2023-12-11)
+
+
+### Features
+
+* new feat 8 ([9e5d2b2](https://github.com/aziontech/vulcan-pipeline-test/commit/9e5d2b27f73eb27d7c0b5d15dc30e6bb09e687d8))
+* new feat 8 ([#19](https://github.com/aziontech/vulcan-pipeline-test/issues/19)) ([6415e80](https://github.com/aziontech/vulcan-pipeline-test/commit/6415e80fb48dc82e374336ba707ced1237ec641c))
+
 ## [2.2.0-stage.4](https://github.com/aziontech/vulcan-pipeline-test/compare/v2.2.0-stage.3...v2.2.0-stage.4) (2023-12-08)
 
 
