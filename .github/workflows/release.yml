@@ -51,6 +51,8 @@ jobs:
         run: |
           git fetch origin
           git checkout stage
-          git rebase origin/main
-          git diff --merge --color -p
-          git push origin stage
+          git rebase origin/main > error.txt
+          cat error.txt
+          cat README.md
+        env:
+          ACTIONS_RUNNER_DEBUG: 1
