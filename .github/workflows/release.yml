@@ -49,10 +49,11 @@ jobs:
           git config user.email "action@github.com"
       - name: Merge main into stage
         run: |
+          git branch -a
           git fetch origin
+          git pull origin main
           git checkout stage
-          git rebase origin/main > error.txt
-          cat error.txt
-          cat README.md
+          git merge main --no-edit
+          git push origin stage
         env:
           ACTIONS_RUNNER_DEBUG: 1
