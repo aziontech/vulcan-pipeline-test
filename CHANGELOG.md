@@ -1,3 +1,11 @@
+## [2.4.0-stage.1](https://github.com/aziontech/vulcan-pipeline-test/compare/v2.3.0...v2.4.0-stage.1) (2023-12-12)
+
+
+### Features
+
+* new feat 10 ([2eb2d72](https://github.com/aziontech/vulcan-pipeline-test/commit/2eb2d72be068ff8cffc12c9855377d04ea446669))
+* new feat 10 ([#24](https://github.com/aziontech/vulcan-pipeline-test/issues/24)) ([5ef8c71](https://github.com/aziontech/vulcan-pipeline-test/commit/5ef8c71549dd9974a89891a869246f385e57a365))
+
 ## [2.3.0](https://github.com/aziontech/vulcan-pipeline-test/compare/v2.2.0...v2.3.0) (2023-12-11)
 
 
