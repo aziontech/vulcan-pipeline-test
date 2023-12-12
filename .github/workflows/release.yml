@@ -53,7 +53,7 @@ jobs:
           git fetch origin
           git pull origin main
           git checkout stage
-          git merge main --no-edit
+          git merge main --allow-unrelated-histories --no-edit -Xtheirs
           git push origin stage
         env:
           ACTIONS_RUNNER_DEBUG: 1
