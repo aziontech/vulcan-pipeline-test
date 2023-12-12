@@ -52,4 +52,5 @@ jobs:
           git fetch origin
           git checkout stage
           git rebase origin/main
+          git diff --merge --color -p
           git push origin stage
