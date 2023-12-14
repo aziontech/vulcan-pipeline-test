@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - stage
 
 permissions: write-all
 
@@ -23,5 +24,7 @@ jobs:
           AZION_PASSWORD: ${{ secrets.AZION_PASSWORD }}
           WEBHOOK_SLACK_URL: ${{ secrets.WEBHOOK_SLACK_URL }}
         run: |
+          pwd
+          ls -lah .
           chmod +x tests/azion_cli/test.sh
           sh tests/azion_cli/test.sh
